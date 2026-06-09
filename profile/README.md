@@ -1,4 +1,6 @@
-<h1 align="center">🐍 Serpentinite Labs</h1>
+<h1 align="center"> Serpentinite Labs</h1>
+
+<img width="1254" height="1254" alt="Serpentinite Labs - logo" src="https://github.com/user-attachments/assets/183d8326-1644-4d88-8cd6-f0f718f1c16a" />
 
 <p align="center">
   <strong>Accelerating Geoscience Through AI</strong>
@@ -90,7 +92,7 @@ Whether you are interested in contributing, testing new tools, or exploring pote
 
 🌐 Website: https://serpentinitelabs.com
 
-📧 Email: hello@serpentinitelabs.com
+📧 Email: research@serpentinitelabs.com
 
 ---
 
